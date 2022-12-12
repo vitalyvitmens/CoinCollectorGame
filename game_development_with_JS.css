@@ -1,0 +1,9 @@
+#canvas {
+  width: 100%;
+  border: 1px solid black;
+}
+button {
+  width: 50px;
+  height: 30px;
+  margin-bottom: 5px;
+}
